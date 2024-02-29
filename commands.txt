@@ -1,0 +1,9 @@
+R1
+
+en
+terminal length 0
+show version
+show inventory
+show interfaces
+show ipv6 interface brief
+show sdm prefer
